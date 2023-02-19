@@ -6,11 +6,11 @@
 
 ## Junior Quality Assurance Engineer
 
-My CV
+## My CV
 
-Language and Tools
+## Language and Tools
 
-Testing Documentation
+## Testing Documentation
 
 Checklists 
 
@@ -20,4 +20,4 @@ Bug-Reports
 
 SQL Queries
 
-Social media links
+## Social media links
