@@ -4,20 +4,20 @@
 -->
 ![Header](https://github.com/lawalina/lawalina/blob/main/.idea/assets/title.jpg)
 
-# Junior Quality Assurance Engineer
+# Ukrainian Junior QA Engineer in Romania
 
 # My CV
-Link to my CV
+[Link to my CV](https://www.dropbox.com/s/cbeuu593psvnw87/Anastasiia%20Lavrentieva%20%28CV%29.pdf?dl=0)
 
 ### Language and Tools
-![Web Testing](https://img.shields.io/badge/-WEB_TESTING-0f3344?style=flat-square)
-![Mobile Testing](https://img.shields.io/badge/-MOBILE_TESTING-0f3344?style=flat-square)
-![Game Testing](https://img.shields.io/badge/-GAME_TESTING-0f3344?style=flat-square)
+![Web Testing](https://img.shields.io/badge/-WEB_TESTING-005a80?style=flat-square&logo=appveyor)
+![Mobile Testing](https://img.shields.io/badge/-MOBILE_TESTING-005a80?style=flat-square&logo=appveyor)
+![Game Testing](https://img.shields.io/badge/-GAME_TESTING-005a80?style=flat-square&logo=appveyor)
 ### Testing Documentation
-- Checklists 
-- Test-Suites and Test-Cases
-- Bug-Reports
-- SQL Queries
+- [Checklists](https://github.com/lawalina/Checklists)
+- [Test-Cases](https://github.com/lawalina/Test-Cases)
+- [Bug-Reports](https://github.com/lawalina/Bug-Reports)
+- [SQL Queries](https://github.com/lawalina/SQL-Queries)
 
 ### Diploma and Certificates
 - [Diploma](https://www.dropbox.com/s/y4nylenr05lhud8/Diploma.jpg?dl=0)
