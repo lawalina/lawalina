@@ -4,9 +4,9 @@
 -->
 ![Header](https://github.com/lawalina/lawalina/blob/main/.idea/assets/title.jpg)
 
-## Junior Quality Assurance Engineer
+# Junior Quality Assurance Engineer
 
-### My CV
+# My CV
 Link to my CV
 
 ### Language and Tools
