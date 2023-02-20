@@ -10,9 +10,19 @@
 [Link to my CV](https://www.dropbox.com/s/cbeuu593psvnw87/Anastasiia%20Lavrentieva%20%28CV%29.pdf?dl=0)
 
 ### Language and Tools
-![Web Testing](https://img.shields.io/badge/-WEB_TESTING-005a80?style=flat-square&logo=appveyor)
-![Mobile Testing](https://img.shields.io/badge/-MOBILE_TESTING-005a80?style=flat-square&logo=appveyor)
-![Game Testing](https://img.shields.io/badge/-GAME_TESTING-005a80?style=flat-square&logo=appveyor)
+![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-005a80?style=for-the-badge&logo=googlechrome&logoColor=black)
+![JIRA](https://img.shields.io/badge/-JIRA-005a80?style=for-the-badge&logo=jira&logoColor=black)
+![TRELLO](https://img.shields.io/badge/-TRELLO-005a80?style=for-the-badge&logo=trello&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-005a80.svg?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-005a80.svg?style=for-the-badge&logo=css3&logoColor=black)
+![GITHUB](https://img.shields.io/badge/-GITHUB-005a80?style=for-the-badge&logo=github&logoColor=black)
+![MYSQL](https://img.shields.io/badge/MYSGL-005a80.svg?style=for-the-badge&logo=mysql&logoColor=black)
+![LINUX](https://img.shields.io/badge/LINUX-005a80?style=for-the-badge&logo=linux&logoColor=black)
+![MANTIS](https://img.shields.io/badge/-MANTIS-005a80?style=for-the-badge)
+![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-005a80?style=for-the-badge)
+![JAVA](https://img.shields.io/badge/-JAVA-005a80?style=for-the-badge)
+![SCRUM](https://img.shields.io/badge/-SCRUM-005a80?style=for-the-badge)
+
 ### Testing Documentation
 - [Checklists](https://github.com/lawalina/Checklists)
 - [Test-Cases](https://github.com/lawalina/Test-Cases)
@@ -25,4 +35,4 @@
 
 ### Social media links
 
-[![Telegram](https://img.shields.io/badge/Telegram-279fdb?style=flat-square&amp;logo=telegram&amp;logoColor=fff)](http://t.me/ana_lawr)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-279fdb?style=for-the-badge&logo=telegram&logoColor=fff)](http://t.me/ana_lawr)
