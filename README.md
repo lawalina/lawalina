@@ -20,8 +20,8 @@ Link to my CV
 - SQL Queries
 
 ### Diploma and Certificates
-- ![Diploma](https://www.dropbox.com/s/y4nylenr05lhud8/Diploma.jpg?dl=0)
-- ![The Fundaments of Software Testing](https://www.dropbox.com/s/3tqbbvzm4af249y/The%20Fundaments%20of%20Software%20Testing_QATestLab_Certificate.pdf?dl=0)
+- [Diploma](https://www.dropbox.com/s/y4nylenr05lhud8/Diploma.jpg?dl=0)
+- [The Fundaments of Software Testing](https://www.dropbox.com/s/3tqbbvzm4af249y/The%20Fundaments%20of%20Software%20Testing_QATestLab_Certificate.pdf?dl=0)
 
 ### Social media links
 ![Telegram](https://img.shields.io/badge/Telegram-279fdb?style=flat-square&amp;logo=telegram&amp;logoColor=fff)
