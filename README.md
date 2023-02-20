@@ -6,11 +6,12 @@
 
 ## Junior Quality Assurance Engineer
 
-## My CV
+### My CV
 
-## Language and Tools
+### Language and Tools
+![Web Testing](https://img.shields.io/badge/-Web_Testing-<COLOR>)
 
-## Testing Documentation
+### Testing Documentation
 
 Checklists 
 
@@ -20,4 +21,10 @@ Bug-Reports
 
 SQL Queries
 
-## Social media links
+### Diploma and certificates
+Diploma
+
+Software Testing
+
+### Social media links
+![![Telegram](https://img.shields.io/badge/-Telegram-<COLOR>)](http://t.me/ana_lawr)
