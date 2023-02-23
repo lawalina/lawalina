@@ -6,9 +6,6 @@
 
 # Ukrainian Junior QA Engineer in Romania
 
-# My CV
-[Link to my CV](https://www.dropbox.com/s/cbeuu593psvnw87/Anastasiia%20Lavrentieva%20%28CV%29.pdf?dl=0)
-
 ### Language and Tools
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-293A5B?style=for-the-badge&logo=googlechrome&logoColor=5E90C3)
 ![JIRA](https://img.shields.io/badge/-JIRA-293A5B?style=for-the-badge&logo=jira&logoColor=5E90C3)
