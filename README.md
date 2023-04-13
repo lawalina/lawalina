@@ -4,7 +4,7 @@
 -->
 ![Header](https://github.com/lawalina/lawalina/blob/main/.idea/assets/title2.jpg)
 
-# Junior QA Engineer
+#  QA Engineer
 
 <!--
 ### Language and Tools
