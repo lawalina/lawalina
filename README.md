@@ -4,8 +4,9 @@
 -->
 ![Header](https://github.com/lawalina/lawalina/blob/main/.idea/assets/title2.jpg)
 
-# Ukrainian Junior QA Engineer in Romania
+# Junior QA Engineer
 
+<!--
 ### Language and Tools
 ![DEVTOOLS](https://img.shields.io/badge/-DEVTOOLS-293A5B?style=for-the-badge&logo=googlechrome&logoColor=5E90C3)
 ![JIRA](https://img.shields.io/badge/-JIRA-293A5B?style=for-the-badge&logo=jira&logoColor=5E90C3)
@@ -19,12 +20,17 @@
 ![TESTRAIL](https://img.shields.io/badge/-TESTRAIL-293A5B?style=for-the-badge)
 ![JAVA](https://img.shields.io/badge/-JAVA-293A5B?style=for-the-badge)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-293A5B?style=for-the-badge)
+-->
 
 ### Testing Documentation
 - [Checklists](https://github.com/lawalina/Checklists)
-- [Test-Cases](https://github.com/lawalina/Test-Cases)
 - [Bug-Reports](https://github.com/lawalina/Bug-Reports)
+<!--
+- [Test-Cases](https://github.com/lawalina/Test-Cases)
+-->
+<!--
 - [SQL Queries](https://github.com/lawalina/SQL-Queries)
+-->
 
 ### Diploma and Certificates
 - [Diploma](https://www.dropbox.com/s/y4nylenr05lhud8/Diploma.jpg?dl=0)
